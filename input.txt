@@ -1,0 +1,27 @@
+<dictionary>
+  <pardefs>
+  <!-- പൂവ്; പൂ; 16 -->
+    <pardef n="പൂ/വ്__n">
+      <e>       <p><l>വ്</l><r>വ്<s n="n"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e>       <p><l>വിനെ</l><r>വ്<s n="n"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e>       <p><l>വിന്റെ</l><r>വ്<s n="n"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e>       <p><l>വിന്</l><r>വ്<s n="n"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e>       <p><l>വില്‍</l><r>വ്<s n="n"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e>       <p><l>വാല്‍</l><r>വ്<s n="n"/><s n="sg"/><s n="ins"/></r></p></e>
+      <e>       <p><l>വേ</l><r>വ്<s n="n"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e>       <p><l>വിനോട്</l><r>വ്<s n="n"/><s n="sg"/><s n="soc"/></r></p></e>
+      <e>       <p><l>ക്കള്‍</l><r>വ്<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e>       <p><l>ക്കളെ</l><r>വ്<s n="n"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e>       <p><l>ക്കളുടെ</l><r>വ്<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e>       <p><l>ക്കള്‍ക്ക്</l><r>വ്<s n="n"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e>       <p><l>ക്കളില്‍</l><r>വ്<s n="n"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e>       <p><l>ക്കളാല്‍</l><r>വ്<s n="n"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e>       <p><l>ക്കളേ</l><r>വ്<s n="n"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e>       <p><l>ക്കളോട്</l><r>വ്<s n="n"/><s n="pl"/><s n="soc"/></r></p></e>
+    </pardef>
+
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="പൂവ്"><i>പൂ</i><par n="പൂ/വ്__n"/></e>
+  </section>
+</dictionary>
